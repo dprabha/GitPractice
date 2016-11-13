@@ -5,6 +5,6 @@ public class HelloWorldExample {
 		System.out.println("Changed @ 13Nov16 10:29 PM");
 		System.out.println("This is the branch 1");
 		
-		System.out.println();
+		System.out.println("Making changes that trigger a difference for merge");
 	}
 }
